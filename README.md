@@ -1,0 +1,2 @@
+# Prediction-of-Heart-disease-at-early-stage-using-machine-learning-algorithms
+This project aims to develop a machine learning model that predicts the likelihood of heart disease in individuals based on various health metrics. Early prediction of heart disease can assist healthcare professionals in making timely decisions for preventive care, which can ultimately save lives. By training several machine learning algorithms.
